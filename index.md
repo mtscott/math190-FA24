@@ -44,7 +44,7 @@ body {
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="mtscott.github.io/math190-f24/index.md">Home</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/syllabus.html">Syllabus</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/schedule.html">Schedule</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/assignments.html">Assignments/a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/assignments.html">Assignments</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/readings.html">Readings</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://canvas.emory.edu/">Canvas</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://piazza.com/emory">Piazza</a>
@@ -63,15 +63,9 @@ body {
   <h3>
     <u>Upcoming Travels</u>
   </h3>
-  <p>
-    October 21 - 25, 2024, SIAM Conference on Mathematics of Data Science (MDS24), Atlanta, GA
-  </p>
-</article>
+  e>
 </section>
 
-<footer>
-  Last Updated: August 8, 2024
-</footer>
 
 </body>
 </html>
