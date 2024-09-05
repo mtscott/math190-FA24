@@ -63,7 +63,6 @@ body {
   <h3>
     <u>Upcoming Travels</u>
   </h3>
-  e>
 </section>
 
 
